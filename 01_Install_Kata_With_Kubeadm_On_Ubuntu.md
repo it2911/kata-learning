@@ -316,3 +316,11 @@ oom_score = 0
     schedule_delay = "0s"
     startup_delay = "100ms"
 ```
+
+Referring Url:
+1. [jcvenegas/How-to-use-cri-containerd.md](https://gist.github.com/jcvenegas/c484dd077a394744fe24a612954f4465)
+2. [Kata Containers installation user guides](https://github.com/kata-containers/documentation/tree/master/install)
+3. [kata-containers/runtime_readme](https://github.com/kata-containers/runtime/blob/master/README.md)
+4. [CRI Plugin Config Guide](https://github.com/containerd/cri/blob/master/docs/config.md)
+5. [Runtime Class](https://kubernetes.io/docs/concepts/containers/runtime-class/)
+6. [How to use Kata Containers and Containerd](https://github.com/kata-containers/documentation/blob/master/how-to/containerd-kata.md#run)
